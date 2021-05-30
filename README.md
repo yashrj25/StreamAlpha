@@ -1,9 +1,9 @@
 ### Hi there 👋
-[![Twitter: StreamAlpha2021](https://img.shields.io/twitter/follow/StreamAlpha2021?style=social)](https://twitter.com/StreamAlpha2021)
-[![GitHub StreamAlpha](https://img.shields.io/github/followers/StreamAlpha?label=follow&style=social)](https://github.com/StreamAlpha)
+[![Twitter: StreamAlpha2021](https://img.shields.io/twitter/follow/StreamAlpha2021?style=for-the-badge)](https://twitter.com/StreamAlpha2021)
+[![GitHub StreamAlpha](https://img.shields.io/github/followers/StreamAlpha?label=follow&style=for-the-badge)](https://github.com/StreamAlpha)
 
-## About Me:
-#### I am an algo trader and fluid dynamics enthusiast. <br> <br>
+### About Me:
+I am an algo trader and fluid dynamics enthusiast. <br> <br>
 
 <!--
 **StreamAlpha/StreamAlpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
