@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Twitter: StreamAlpha2021](https://img.shields.io/twitter/follow/StreamAlpha2021?style=social)](https://twitter.com/StreamAlpha2021)
+[![GitHub StreamAlpha](https://img.shields.io/github/followers/StreamAlpha?label=follow&style=social)](https://github.com/StreamAlpha)
+---
+## About Me:
+#### Algo trader, always curious to learn and exploring new things. <br> <br>
+
+
+---
+
+**Github Stats:**
+
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=StreamAlpha&hide=stars&show_icons=true&theme=dracula&line_height=24">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StreamAlpha&count_private=false&theme=dracula&line_height=32">
+
+</p>
+
+---
+ 
