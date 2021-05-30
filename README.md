@@ -34,6 +34,10 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [#Bhavcopy and #OptionChain analysis using python, get historical option chain data](https://www.youtube.com/watch?v=h1ZT7_zdUls)
+- [pyNSE- Python library to download realtime & historical data from #NSE #bhavcopy #optionchain](https://www.youtube.com/watch?v=JXe7ymh5KTI)
+- [TvDatafeed: A #python library to download #historical #data from #Tradingview](https://www.youtube.com/watch?v=qDrXmb2ZRjo)
+- [How to store login details safely using #python's #keyring library](https://www.youtube.com/watch?v=6Yur8Vvlouo)
 <!-- YOUTUBE:END -->
 ---
 **Github Stats:**
