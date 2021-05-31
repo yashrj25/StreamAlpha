@@ -2,7 +2,8 @@
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/StreamAlpha2021?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FStreamAlpha&screen_name=StreamAlpha2021)
-[![](https://visitor-badge.laobi.icu/badge?page_id=StreamAlpha.StreamAlpha)]
+<!-- [![Github Views](https://visitor-badge.laobi.icu/badge?page_id=StreamAlpha.StreamAlpha&style=for-the-badge)](https://github.com/StreamAlpha) -->
+[![Github Follow](https://img.shields.io/github/followers/StreamAlpha?label=Follow&style=for-the-badge)](https://github.com/StreamAlpha)
 
 
 ### About Me:
