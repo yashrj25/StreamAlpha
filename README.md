@@ -2,6 +2,7 @@
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/StreamAlpha2021?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FStreamAlpha&screen_name=StreamAlpha2021)
+[![](https://visitor-badge.laobi.icu/badge?page_id=StreamAlpha.StreamAlpha)]
 
 
 ### About Me:
@@ -25,6 +26,13 @@ Here are some ideas to get you started:
 
 -->
 
+<!-- ### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][algotrading]
+
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][algotrading]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][algotrading]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist] -->
 
 ---
 ### Connect with me:
@@ -32,6 +40,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="StreamAlpha | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="streamAlpha2021 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="StreamAlpha | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram_channel]
+<!-- [<img align="left" alt="StreamAlpha | Medium" width="22px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />][medium] -->
 
 <br />
 
@@ -56,5 +65,9 @@ Here are some ideas to get you started:
 
 ---
 [twitter]: https://twitter.com/StreamAlpha2021
-[youtube]: https://youtube.com/StreamAlpha
+[youtube]: https://youtube.com/StreamAlpha?sub_confirmation=1
 [telegram_channel]: https://t.me/streamAlpha
+[pyNSE]:https://github.com/StreamAlpha/pynse
+[TvDatafeed]:https://github.com/StreamAlpha/tvdatafeed/tree/develop
+[algotrading]:https://youtu.be/JXe7ymh5KTI
+<!-- [medium]: -->
