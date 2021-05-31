@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<p align="center">
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/StreamAlpha2021?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FStreamAlpha&screen_name=StreamAlpha2021)
-</>
+
 
 ### About Me:
 I am an algo trader and fluid dynamics enthusiast. <br> <br>
