@@ -49,11 +49,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [TvDatafeed v1.1.0: A #python library to download #historical #data from #Tradingview](https://www.youtube.com/watch?v=f76dOZW2gwI)
 - [Backtesting using python, Part-4, Outside Reversal & Doji Reversal, Secrets of Pivot Boss](https://www.youtube.com/watch?v=LzR6nzIcFq8)
 - [Backtesting using python, Part-3, Extreme Reversal Setup, Secrets of Pivot Boss by Frank Ochoa](https://www.youtube.com/watch?v=iCRozK5l9p4)
 - [Backtesting using python, Part-2, Secrets of Pivot Boss by Frank Ochoa, Wick Reversal Setup](https://www.youtube.com/watch?v=vk9Yi0gLrO8)
 - [Backtesting using python, Part -1, Secrets of Pivot Boss by  Frank Ochoa, Initial Balance](https://www.youtube.com/watch?v=Xq6NHhuDFYs)
-- [#Bhavcopy and #OptionChain analysis using python, get historical option chain data](https://www.youtube.com/watch?v=h1ZT7_zdUls)
 <!-- YOUTUBE:END -->
 ---
 **Github Stats:**
