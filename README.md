@@ -7,7 +7,15 @@
 
 
 ### About Me:
-I am an algo trader and fluid dynamics enthusiast. <br> <br>
+I am an algo trader and fluid dynamics enthusiast. I am passionate about the stock market & quant and like to put my spare time in teaching and creating open source content about trading. 
+
+My popular contributions to open source are [TvDatafeed](https://github.com/StreamAlpha/tvdatafeed) and [pyNSE](https://github.com/StreamAlpha/pynse). Take a look at Youtube Channel where you can find a lots of content about algo trading and quant.
+
+<br>
+
+If you found the content useful and want to support my work, you can buy me a coffee! 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/StreamAlpha)
+
 
 <!--
 **StreamAlpha/StreamAlpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
