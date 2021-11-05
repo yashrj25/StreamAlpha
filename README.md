@@ -57,11 +57,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Creating Stock Analysis Dashboard using Streamlit and Python (Part-2)](https://www.youtube.com/watch?v=CJcSDR2onpQ)
 - [Creating Stock Analysis Dashboard using Streamlit and Python (Part-1)](https://www.youtube.com/watch?v=7meJu6HgvOE)
 - [TvDatafeed v1.1.0: A #python library to download #historical #data from #Tradingview](https://www.youtube.com/watch?v=f76dOZW2gwI)
 - [Backtesting using python, Part-4, Outside Reversal & Doji Reversal, Secrets of Pivot Boss](https://www.youtube.com/watch?v=LzR6nzIcFq8)
 - [Backtesting using python, Part-3, Extreme Reversal Setup, Secrets of Pivot Boss by Frank Ochoa](https://www.youtube.com/watch?v=iCRozK5l9p4)
-- [Backtesting using python, Part-2, Secrets of Pivot Boss by Frank Ochoa, Wick Reversal Setup](https://www.youtube.com/watch?v=vk9Yi0gLrO8)
 <!-- YOUTUBE:END -->
 ---
 **Github Stats:**
