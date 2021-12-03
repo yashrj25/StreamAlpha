@@ -57,11 +57,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [TA-Lib: Technical Indicators with Python, Installation and usage, Abstract API, Streaming API](https://www.youtube.com/watch?v=0MeHXJm9HRk)
 - [Creating Stock Analysis Dashboard using Streamlit and Python &lpar;Part-2&rpar;](https://www.youtube.com/watch?v=CJcSDR2onpQ)
 - [Creating Stock Analysis Dashboard using Streamlit and Python &lpar;Part-1&rpar;](https://www.youtube.com/watch?v=7meJu6HgvOE)
 - [TvDatafeed v1.1.0: A #python library to download #historical #data from #Tradingview](https://www.youtube.com/watch?v=f76dOZW2gwI)
 - [Backtesting using python, Part-4, Outside Reversal &amp; Doji Reversal, Secrets of Pivot Boss](https://www.youtube.com/watch?v=LzR6nzIcFq8)
-- [Backtesting using python, Part-3, Extreme Reversal Setup, Secrets of Pivot Boss by Frank Ochoa](https://www.youtube.com/watch?v=iCRozK5l9p4)
 <!-- YOUTUBE:END -->
 ---
 **Github Stats:**
